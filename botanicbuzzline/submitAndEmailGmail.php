@@ -1,17 +1,14 @@
 <?php
-// Written for students of Cornell's INFO 1300 by Grant Storey, 11/7/18
 
 // Change this to your redirect page
 $redirect = "formSubmitted.html";
 
 // Change this to the email you want to send results to.
-$sendToEmail = "amt258@cornell.edu";
+$sendToEmail = "bslsustainability@gmail.com";
 // Change this to the email you want to send results from (must be an @gmail.com email ).
 $sendFromEmail = "formbotanicbuzzline@gmail.com";
-// The password for the email you are sending from
-$sendFromPassword = "pollinators_2018";
 
-// Optionally change this to the desired subject line for emails
+// Change to desired subject line for emails
 $subject = "Form Submission for Your Website";
 
 // Optionally change the name of the mailer
